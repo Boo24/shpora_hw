@@ -1,0 +1,15 @@
+C:\Users\bubub\testing\HomeExercises\bin\Debug\ObjectComparison.dll
+C:\Users\bubub\testing\HomeExercises\bin\Debug\ObjectComparison.pdb
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.Core.dll
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.dll
+C:\Users\bubub\testing\HomeExercises\bin\Debug\JetBrains.Annotations.dll
+C:\Users\bubub\testing\HomeExercises\bin\Debug\nunit.framework.dll
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.pdb
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.xml
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\bubub\testing\HomeExercises\bin\Debug\FluentAssertions.Core.xml
+C:\Users\bubub\testing\HomeExercises\bin\Debug\JetBrains.Annotations.xml
+C:\Users\bubub\testing\HomeExercises\bin\Debug\nunit.framework.xml
+C:\Users\bubub\testing\HomeExercises\obj\Debug\ObjectComparison.dll
+C:\Users\bubub\testing\HomeExercises\obj\Debug\ObjectComparison.pdb
+C:\Users\bubub\testing\HomeExercises\obj\Debug\HomeExercises.csprojResolveAssemblyReference.cache
